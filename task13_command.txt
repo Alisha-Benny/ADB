@@ -1,0 +1,3 @@
+command to uninstall an app-  adb uninstall <package name>
+ to uninstall the calculator-
+ adb uninstall com.simplemobiletools.calculator

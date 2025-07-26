@@ -1,0 +1,1 @@
+command to see the logs of an app in real time after acquiring the PID of the app adb logcat | findstr 13973

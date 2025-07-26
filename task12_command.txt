@@ -1,0 +1,3 @@
+Command to install a simple calculator: apk adb install "C:\Users\alish\Downloads\simple-calculator-6-1-0.apk"  
+
+  adb install apk <path>

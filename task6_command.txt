@@ -1,0 +1,2 @@
+command to take ss- adb shell screencap /sdcard/screen.png
+command to pull the ss to the pc adb pull /sdcard/screen.png

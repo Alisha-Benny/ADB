@@ -1,0 +1,1 @@
+adb pull /sdcard/DCIM/Screenshots/Screenshot_20250725_124701.jpg

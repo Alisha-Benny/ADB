@@ -1,0 +1,2 @@
+adb shell getprop ro.product.model  - shows model
+adb shell getprop ro.build.version.release - shows version

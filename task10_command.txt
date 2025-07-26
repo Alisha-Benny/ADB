@@ -1,0 +1,2 @@
+simulated the camera button and took a photo 
+command is adb shell input keyevent 27

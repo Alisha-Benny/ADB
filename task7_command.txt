@@ -1,0 +1,1 @@
+command to list all installed packages "adb shell pm list packages"

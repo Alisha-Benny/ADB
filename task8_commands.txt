@@ -1,0 +1,2 @@
+command to launch youtube on the phone adb shell monkey -p com.google.android.youtube -c android.intent.category.LAUNCHER 1
+command to force stop youtube is adb shell am force-stop com.google.android.youtube 
